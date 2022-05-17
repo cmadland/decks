@@ -5,6 +5,10 @@
 
 ### Colin Madland, PhD Candidate, University of Victoria {-}
 
+[Find me on the web...](https://cmad.land)  
+[Twitter](https://twitter.com/colinmadland)  
+[Mastodon](https://mastodon.social/web/@Cmadland)  
+
 **Presented Online at OTESSA22, May 17, 2022**
 
 > I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. [To learn more, please visit the Westbank First Nation website.](https://wfn.ca)
@@ -175,7 +179,32 @@ On the other hand, higher education instructors (from part-time sessionals to ad
 ### Impact of Technology {-}
 
 - Impact on higher education is ubiquitous (SIS, LMS/VLE, CRM, etc.)
+- Tends to emphasize `efficiency` (however ill-defined that may be)
+  - doing the same things with greater speed and/or reduced effort
+  - reinscribes mis-aligned assessment structures
 
+#### Pockets of Innovation {-}
+  
+#### Bearman et al. 2020 {-}
+
+>Bearman, M., Dawson, P., Ajjawi, R., Tai, J., & Boud, D. (Eds.). (2020). *Re-imagining university assessment in a digital world.* Springer.
+
+- cognitive offloading  
+- artificial intelligence  
+  - "personalized" learning; recommender systems, automated item generation, automated essay scoring  
+- dialogic feedback  
+  - video, audio, screencast  
+- data & learning analytics  
+  - process data  
+- peer/self-assessment
+- micro-credentials
+
+However...
+
+- critical to consider ethical and social impacts!
+  - surveillance
+  - equity
+  - algorithmic assessment
 
 #### Bower, 2019 {-}
 
@@ -183,23 +212,36 @@ On the other hand, higher education instructors (from part-time sessionals to ad
 
 >In technology-mediated learning contexts, agentic intentions reside with humans, and not with technology.
 
-- 3 (select) premises
-  - technology `mediates` between learners and outcomes
-  - beliefs, knowledge, practices, and environment are mutually influential (add this to the complexity of assessment)
-  - role of teachers is to optimise learning through the `purposeful deployment` of learning technologies
+- 3 (select) premises  
+  - technology `mediates` between learners and outcomes  
+  - beliefs, knowledge, practices, and environment are mutually influential (add this to the complexity of assessment)  
+  - role of teachers is to optimise learning through the `purposeful deployment` of learning technologies  
 
 
 ### Revisiting Shepard (2000) {-}
 
-- 22 years have passed...
-- What has changed?
-- What is your experience of assessment in higher education?
+**Using hypothes.is**  
+
+- 22 years have passed...  
+- What has changed?  
+- What is your experience of technology-mediated assessment in higher education?  
+- What are your greatest challenges related to technology-mediated assessment?
 
 
 
 ## Research Directions {-}
 
+- assessment as conversation in digital environments  
+- validity exploration of *Approaches to Assessment* in higher ed.  
+  - revised instrument  
+- humanizing assessment  
+
+## Questions? Comments? {-}
+
+
 ## References {-}
+
+Bearman, M., Dawson, P., Ajjawi, R., Tai, J., & Boud, D. (Eds.). (2020). *Re-imagining university assessment in a digital world.* Springer.
 
 Bernstein, B. (1999). Vertical and Horizontal Discourse: An Essay. *British Journal of Sociology of Education, 20*(2), 157–173. JSTOR. https://doi.org/10/ftmsvc
 
