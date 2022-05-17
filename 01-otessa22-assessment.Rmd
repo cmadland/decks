@@ -22,6 +22,12 @@ Slides - https://bit.ly/otessa22-b
 
 ### Background {-}
 
+This review is guided by four research questions:
+  
+1. What are the major themes or patterns in the literature related to approaches to assessment in higher education?  
+2. What are the major themes or patterns in the literature related to the impact of technology on assessment in higher education?  
+3. What gaps exist in the literature related to approaches to assessment in technology-mediated higher education?
+
 #### Scriven, 1967 {-}
 
 > Scriven, M. (1967). _The methodology of evaluation._ In B. O. Smith (Ed.), _Perspectives of curriculum evaluation_. Rand McNally
