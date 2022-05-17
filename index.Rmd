@@ -1,5 +1,5 @@
 --- 
-title: "Presentations by Colin Madland"
+title: "Presentations"
 author: "Colin Madland"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site

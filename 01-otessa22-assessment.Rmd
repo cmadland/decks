@@ -11,6 +11,10 @@
 
 ![Figure 1. Author's bicycle overlooking Okanagan Lake.](assets/otessa22/kalamoir.jpg "Picture of a bicycle resting against a pole along a trail in Kalamoir Park overlooking Okanagan Lake. There are many yellow Arrowleaf Balsamroot flowers on the hillside.")
 
+### Hypothes.is {-}
+
+[If you haven't already, feel free to sign up here as we will use hypothes.is later](https://web.hypothes.is/start/). Also, if you have questions or comments, please annotate to your heart's content!
+
 ### Background {-}
 
 #### Scriven, 1967 {-}
@@ -137,12 +141,61 @@
 
 ### Approaches to Assessment {-}
 
+Both learning and assessment are complex phenomena which are impacted by myriad factors.
 
-## Assessment in Higher Education {-}
+#### Shepard (2000) {-}
 
-bearmanSupportAssessmentPractice2016
-@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020
-## Technology-Mediated Assessment {-}
+>Shepard, L. A. (2000). The Role of Assessment in a Learning Culture. *Educational Researcher, 29*(7), 4–14. https://doi.org/10/cw9jwc
+
+- traditional assessment structures originated in behaviourist models of teaching and learning
+  - emphasis on culture of summative assessment
+- modern constructivist models of teaching and learning are less compatible with previous assessment structures, yet a culture that emphasizes summative assessment seems to persist alongside emerging models of assessment
+
+#### DeLuca, 2016 {-}
+
+>DeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). Approaches to classroom assessment inventory: A new instrument to support teacher assessment literacy. *Educational Assessment, 21*, 248–266. https://doi.org/10/gfgtsg
+
+![Figure 4. Approaches to Classroom Assessment from DeLuca et al. (2016)](assets/otessa22/approaches.png "Diagram illustrating four factors influencing teachers' approaches to assessment, described below.")
+
+- *Approaches to Classroom Assessment Inventory*  
+  - designed to inventory K12 teachers' thoughts, beliefs, actions related to assessment  
+    - Assessment purpose (of, for, as learning)  
+    - Assessment process (design, use/scoring, communication)  
+    - Assessment fairness (standard, equitable, differentiated)  
+    - Assessment theory (consistent, balanced, contextual)  
+
+## Technology-Mediated Assessment in Higher Education {-}
+
+### Contrasting with K12 {-}
+
+There is a very large body of literature on assessment in K12 learning contexts, and a not-quite as large, but still substantial body of literature on assessment in higher education. It may be tempting to conflate the two contexts, but K12 teachers typically complete 2 full years of pedagogical training as part of their academic and practical preparation. These two years often include specific courses on assessment, learning theory, as well as domain-specific pedagogies.
+
+On the other hand, higher education instructors (from part-time sessionals to adjuncts to tenure-track and tenured faculty) tend to engage in little academic preparation in learning theories or assessment, although they seem to absorb the signature pedagogies of their discipline. 
+
+### Impact of Technology {-}
+
+- Impact on higher education is ubiquitous (SIS, LMS/VLE, CRM, etc.)
+
+
+#### Bower, 2019 {-}
+
+>Bower, M. (2019). Technology‐mediated learning theory. *British Journal of Educational Technology, 50*(3), 1035–1048. https://doi.org/10.1111/bjet.12771
+
+>In technology-mediated learning contexts, agentic intentions reside with humans, and not with technology.
+
+- 3 (select) premises
+  - technology `mediates` between learners and outcomes
+  - beliefs, knowledge, practices, and environment are mutually influential (add this to the complexity of assessment)
+  - role of teachers is to optimise learning through the `purposeful deployment` of learning technologies
+
+
+### Revisiting Shepard (2000) {-}
+
+- 22 years have passed...
+- What has changed?
+- What is your experience of assessment in higher education?
+
+
 
 ## Research Directions {-}
 
@@ -156,9 +209,13 @@ Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment i
 
 Bloom, B. (1968). Learning for Mastery. Instruction and Curriculum. Regional Education Laboratory for the Carolinas and Virginia, Topical Papers and Reprints, Number 1. *Evaluation Comment, 1*(2), 12.
 
+Bower, M. (2019). Technology‐mediated learning theory. *British Journal of Educational Technology, 50*(3), 1035–1048. https://doi.org/10.1111/bjet.12771
+
 Brown, G. T. L. (2004). Teachers’ conceptions of assessment: Implications for policy and professional development. *Assessment in Education: Principles, Policy & Practice, 11*(3), 301–318. https://doi.org/10.1080/0969594042000304609
 
 Brown, G. T. L. (2006). Teachers’ Conceptions of Assessment: Validation of an Abridged Version. *Psychological Reports, 99*(1), 166–170. https://doi.org/10/bf67hf
+
+DeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). Approaches to classroom assessment inventory: A new instrument to support teacher assessment literacy. *Educational Assessment, 21*, 248–266. https://doi.org/10/gfgtsg
 
 DeLuca, C., Willis, J., Cowie, B., Harrison, C., Coombs, A., Gibson, A., & Trask, S. (2019). Policies, Programs, and Practices: Exploring the Complex Dynamics of Assessment Education in Teacher Education Across Four Countries. *Frontiers in Education, 4*, 132. https://doi.org/10/gh5k2r
 
@@ -171,4 +228,6 @@ Mislevy, R. J. (1994). Test theory reconcieved. _ETS Research Report Series, 199
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). _Knowing What Students Know: The Science and Design of Educational Assessment_. National Academies Press. https://doi.org/10.17226/10019
 
 Scriven, M. (1967). _The methodology of evaluation._ In B. O. Smith (Ed.), _Perspectives of curriculum evaluation_. Rand McNally
+
+Shepard, L. A. (2000). The Role of Assessment in a Learning Culture. *Educational Researcher, 29*(7), 4–14. https://doi.org/10/cw9jwc
 
