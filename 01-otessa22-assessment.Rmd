@@ -3,17 +3,66 @@
 
 ## Introduction {-}
 
+### Colin Madland, PhD Candidate, University of Victoria {-}
+
+**Presented Online at OTESSA22, May 17, 2022**
+
+> I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land.
+
+![Picture of a bicycle resting against a pole along a trail in Kalamoir Park overlooking Okanagan Lake.](assets/otessa22/kalamoir.jpg)
+
 ### Background {-}
 
 #### Scriven, 1967 {-}
 
+> Scriven, M. (1967). _The methodology of evaluation._ In B. O. Smith (Ed.), _Perspectives of curriculum evaluation_. Rand McNally
+
+- distinction between `formative` and `summative`
+
 #### Bloom, 1968 {-}
+
+>Bloom, B. (1968). Learning for Mastery. Instruction and Curriculum. Regional Education Laboratory for the Carolinas and Virginia, Topical Papers and Reprints, Number 1. *Evaluation Comment, 1*(2), 12.
+
+- Incorporated `formative` and `summative` distinction into his ideas about `mastery learning`
+
 
 #### Mislevy, 1994 {-}
 
+>Mislevy, R. J. (1994). Test theory reconcieved. _ETS Research Report Series, 1994_(1), i–38. https://doi.org/10/gjm236
+
+- >test theory is machinery for reasoning from students' behavior to conjectures about their competence, as framed in a particular conception of competence."(p. 4).
+- 
 #### Black and Wiliam, 1998 {-}
 
+> Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. https://doi.org/10/fpnss4
+
+- major review of the literature on `formative assessment`  
+- describe formative assessment as encouraging gains in achievement that were  
+
+	  > among the largest ever reported for educational interventions (p. 61)
+
 #### Pellegrino et al., 2001 {-}
+
+>Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). _Knowing What Students Know: The Science and Design of Educational Assessment_. National Academies Press. https://doi.org/10.17226/10019
+
+- "a process of drawing reasonable inferences about what students know on the basis of evidence derived from observations of what they say, do, or make in selected situations" (p. 112)  
+- "reasoning from evidence" (p. 43)  
+
+##### Assessment Triangle {-}
+
+![Stylized diagram of a triangle with the sides labeled, (clockwise from the bottom) Cognition, Observation, and Interpretation. There are two-way arrows pointing between each of the sides.](assets/otessa22/assessment-triangle.png)
+
+###### Cognition {-}
+- a cognitive model of the domain
+
+###### Observation {-}
+
+- a performance task used to gather data regarding learner achievement
+
+###### Interpretation {-}
+
+- an inference or judgement of the learner's achievement in relation to the model of the domain
+
 
 ### Approaches to Learning {-}
 
@@ -22,6 +71,8 @@
 ### Conceptions of Assessment {-}
 
 #### Brown, 1994; 1996 {-}
+
+#### Fletcher et al., 2012 {-}
 
 ## Assessment in Higher Education {-}
 

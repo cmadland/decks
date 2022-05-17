@@ -12,6 +12,6 @@ github-repo: rstudio/bookdown-demo
 description: "This is a minimal example of using the bookdown package to host presentations. The output format for this example is bookdown::gitbook."
 ---
 
-# Welcome
+# Welcome {-}
 
 Please use the table of contents on the left to navigate through my presentations.

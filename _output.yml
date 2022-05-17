@@ -1,7 +1,11 @@
 bookdown::gitbook:
   css: style.css
+  includes:
+      in_header: includes.html
   config:
     toc:
+      collapse: section
+      scroll_highlight: true
       before: |
         <li><a href="https://cmad.land" target="blank">Presentations by Colin Madland</a></li>
       after: |
