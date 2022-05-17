@@ -7,9 +7,9 @@
 
 **Presented Online at OTESSA22, May 17, 2022**
 
-> I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land.
+> I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. [To learn more, please visit the Westbank First Nation website.](https://wfn.ca)
 
-![Picture of a bicycle resting against a pole along a trail in Kalamoir Park overlooking Okanagan Lake.](assets/otessa22/kalamoir.jpg)
+![Figure 1. Author's bicycle overlooking Okanagan Lake.](assets/otessa22/kalamoir.jpg "Picture of a bicycle resting against a pole along a trail in Kalamoir Park overlooking Okanagan Lake. There are many yellow Arrowleaf Balsamroot flowers on the hillside.")
 
 ### Background {-}
 
@@ -31,7 +31,7 @@
 >Mislevy, R. J. (1994). Test theory reconcieved. _ETS Research Report Series, 1994_(1), i–38. https://doi.org/10/gjm236
 
 - >test theory is machinery for reasoning from students' behavior to conjectures about their competence, as framed in a particular conception of competence."(p. 4).
-- 
+  
 #### Black and Wiliam, 1998 {-}
 
 > Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. https://doi.org/10/fpnss4
@@ -50,7 +50,7 @@
 
 ##### Assessment Triangle {-}
 
-![Stylized diagram of a triangle with the sides labeled, (clockwise from the bottom) Cognition, Observation, and Interpretation. There are two-way arrows pointing between each of the sides.](assets/otessa22/assessment-triangle.png)
+![Figure 2. Assessment Triangle from Pellegrino et al. (2001)](assets/otessa22/assessment-triangle.png "Stylized diagram of a triangle with the sides labeled, (clockwise from the bottom) Cognition, Observation, and Interpretation. There are two-way arrows pointing between each of the sides.")
 
 ###### Cognition {-}
 - a cognitive model of the domain
@@ -68,14 +68,107 @@
 
 #### Biggs, 1993 {-}
 
+>Biggs, J. B. (1993). From Theory to Practice: A Cognitive Systems Approach. *Higher Education Research & Development, 12*(1), 73–85. https://doi.org/10/ccdmd9
+
+![Figure 3. 3-P Model of Teaching and Learning adapted from Biggs (1993)](assets/otessa22/3p-model.png "Diagram showing three components of the 3-P Model of Teaching and Learning, described below.")
+
+##### Presage {-}
+
+- factors that precede learning activities  
+  - learner factors  
+    - prior knowledge  
+    - educational experience  
+    - affective states  
+    - wellness (physical & mental)  
+  - teacher factors  
+    - vertical & horizontal discourses (Bernstein, 1999)  
+    - institutional policies  
+    - department norms  
+    - educational experiences  
+
+##### Process {-}
+
+- learning focused activities
+  - reading, writing, discussing, building, creating, synthesizing, researching, sharing, debating, publishing...
+- surface approaches
+  - using low-level cognitive skills when high-level cognitive skills are required
+- deep approaches
+  - using high-level cognitive skills for tasks which require them
+
+##### Product {-}
+
+- learner achievement of outcomes (intended or emergent)
+- fed back into the system
+  - informs learners and instructors
+
+
 ### Conceptions of Assessment {-}
 
 #### Brown, 1994; 1996 {-}
 
+>Brown, G. T. L. (2004). Teachers’ conceptions of assessment: Implications for policy and professional development. *Assessment in Education: Principles, Policy & Practice, 11*(3), 301–318. https://doi.org/10.1080/0969594042000304609
+
+>Brown, G. T. L. (2006). Teachers’ Conceptions of Assessment: Validation of an Abridged Version. *Psychological Reports, 99*(1), 166–170. https://doi.org/10/bf67hf
+
+
+- general mental structure, encompassing beliefs, meanings, concepts, propositions, rules, mental images, preferences
+  - improvement of teaching and learning,  
+  - school accountability,  
+  - student accountability, or  
+  - treating assessment as irrelevant.
+
 #### Fletcher et al., 2012 {-}
+
+>Fletcher, R. B., Meyer, L. H., Anderson, H., Johnston, P., & Rees, M. (2012). Faculty and Students Conceptions of Assessment in Higher Education. *Higher Education, 64*(1), 119–133. https://doi.org/10/ctccpq
+
+- instructors were more likely than learners to view assessment as consistent and trustworthy methods to understand and improve learning  
+- learners were more likely to have negative views of assessment and viewed it as a measure of student and institutional accountability.
+
+#### Earl, 2013 {-}
+
+>Earl, L. M. (2013). *Assessment as learning: Using classroom assessment to maximize student learning (Second edition)*. Corwin Press.
+
+- Assessment *OF* Learning
+  - summative
+- Assessment *FOR* Learning
+  - formative
+- Assessment *AS* Learning
+  - metacognitive
+
+### Approaches to Assessment {-}
+
 
 ## Assessment in Higher Education {-}
 
+bearmanSupportAssessmentPractice2016
+@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020
 ## Technology-Mediated Assessment {-}
 
 ## Research Directions {-}
+
+## References {-}
+
+Bernstein, B. (1999). Vertical and Horizontal Discourse: An Essay. *British Journal of Sociology of Education, 20*(2), 157–173. JSTOR. https://doi.org/10/ftmsvc
+
+Biggs, J. B. (1993). From Theory to Practice: A Cognitive Systems Approach. *Higher Education Research & Development, 12*(1), 73–85. https://doi.org/10/ccdmd9
+
+Black, P., & Wiliam, D. (1998). Assessment and Classroom Learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. https://doi.org/10/fpnss4
+
+Bloom, B. (1968). Learning for Mastery. Instruction and Curriculum. Regional Education Laboratory for the Carolinas and Virginia, Topical Papers and Reprints, Number 1. *Evaluation Comment, 1*(2), 12.
+
+Brown, G. T. L. (2004). Teachers’ conceptions of assessment: Implications for policy and professional development. *Assessment in Education: Principles, Policy & Practice, 11*(3), 301–318. https://doi.org/10.1080/0969594042000304609
+
+Brown, G. T. L. (2006). Teachers’ Conceptions of Assessment: Validation of an Abridged Version. *Psychological Reports, 99*(1), 166–170. https://doi.org/10/bf67hf
+
+DeLuca, C., Willis, J., Cowie, B., Harrison, C., Coombs, A., Gibson, A., & Trask, S. (2019). Policies, Programs, and Practices: Exploring the Complex Dynamics of Assessment Education in Teacher Education Across Four Countries. *Frontiers in Education, 4*, 132. https://doi.org/10/gh5k2r
+
+Earl, L. M. (2013). *Assessment as learning: Using classroom assessment to maximize student learning (Second edition)*. Corwin Press.
+
+Fletcher, R. B., Meyer, L. H., Anderson, H., Johnston, P., & Rees, M. (2012). Faculty and Students Conceptions of Assessment in Higher Education. *Higher Education, 64*(1), 119–133. https://doi.org/10/ctccpq
+
+Mislevy, R. J. (1994). Test theory reconcieved. _ETS Research Report Series, 1994_(1), i–38. https://doi.org/10/gjm236
+
+Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). _Knowing What Students Know: The Science and Design of Educational Assessment_. National Academies Press. https://doi.org/10.17226/10019
+
+Scriven, M. (1967). _The methodology of evaluation._ In B. O. Smith (Ed.), _Perspectives of curriculum evaluation_. Rand McNally
+
