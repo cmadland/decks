@@ -6,7 +6,10 @@
 
 PhD Candidate, University of Victoria 
 
-Slides - https://bit.ly/otessa22-b  
+Notes - https://bit.ly/twu-assessment
+
+![QR Code to access presentation notes](assets/twu-asmt/twu-asmt.png)
+
 [Find me on the web...](https://cmad.land)  
 [Twitter](https://twitter.com/colinmadland)  
 [Mastodon](https://scholar.social/web/@Cmadland)  
