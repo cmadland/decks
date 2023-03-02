@@ -1,6 +1,4 @@
-# TWU Faculty Professional Learning {-}
-
-## Thursday, March 9, 2023 {-}
+# TWU Faculty Professional Learning 
 
 ### Colin Madland, Manager, Online Learning and Instructional Technology (TWU GLOBAL) {-}
 
@@ -14,8 +12,135 @@ Notes - https://bit.ly/twu-assessment
 [Twitter](https://twitter.com/colinmadland)  
 [Mastodon](https://scholar.social/web/@Cmadland)  
 
-**Presented Online at OTESSA22, May 17, 2022**
+**Presented Online for TWU Faculty Professional Learning, Thursday, March 9, 2023**
 
-> I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. [To learn more, please visit the Westbank First Nation website.](https://wfn.ca)
+> I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the `syilx` (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. [To learn more, please visit the syilx.org.](https:/syilx.org)
 
-![Figure 1. Author's bicycle overlooking Okanagan Lake.](assets/otessa22/kalamoir.jpg "Picture of a bicycle resting against a pole along a trail in Kalamoir Park overlooking Okanagan Lake. There are many yellow Arrowleaf Balsamroot flowers on the hillside.")
+![My blind dog, Eleanor near the top of Mission Hill, overlooking syilx territory.](assets/twu-asmt/ellie.jpeg "Picture of a black and tan-coloured dog overlooking Okanagan Lake from near the Mission Hill Winery.")
+
+## What is 'assessment'?
+
+>Pellegrino, J. W., Chudowsky, N., & Glaser, R. _Knowing What Students Know: The Science and Design of Educational Assessment_. National Academies Press. https://doi.org/10.17226/10019
+
+- "reasoning from evidence" (p. 43)  
+- "a *process* of drawing reasonable *inferences* about what students know on the basis of *evidence* derived from *observations* of what they say, do, or make in *selected situations*" (p. 112)  
+
+## Thinking about your Approach to Assessment
+
+<details>
+<summary>Scenario 1 </summary>
+<p>
+> You are teaching a large enrollment course. The students will be submitting bi-weekly assignments, a midterm exam, and a culminating assignment all designed to support their learning.
+
+- Grade each bi-weekly assignment.  
+- Read a subset of bi-weekly assignments, identify and share performance trends with the whole class.  
+- Ask students to self-assess their bi-weekly assignments using evaluative criteria.  
+- Use performance trends from the bi-weekly assignments to inform the redesign of the midterm or culminating assessment.  
+- Develop a rubric or scoring guide to assess the culminating assignment in advance of student submissions.  
+- Dedicate class time to discuss students’ performance trends from the midterm and address gaps in learning so students are better prepared for the culminating assignment.  
+- Have every student complete the same culminating assignment using the same scoring rubric or guide.  
+- Have all students complete the same culminating assignment with formal accommodations for students who require them.  
+- Provide students with a choice of three different culminating assignments that assess the same learning goals.  
+- Consistently apply late submission policies for all students when generating grades.  
+- Consider each student’s individual circumstances when deciding how to apply late submission policies.  
+- Use the late submission policy as a guideline to ensure a consistent principle is applied while also using professional judgement for students with individual circumstances.  
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+- </p>
+</details>
+
+<details>
+<summary>Scenario 2 </summary>
+<p>
+> A core assignment in your course involves students working in groups online.
+
+- Grade the assignment solely based on the group’s final product.
+- Engage students in an ongoing peer feedback process to enhance group collaboration.
+- Engage students in self-assessment to increase their accountability and engagement in the assignment.
+- Leverage online design features to engage students in peer feedback and self-assessment.
+- Take group member feedback into consideration when generating final grades.
+- Communicate grading decisions based on evaluation criteria and evidence of student learning.
+- Give all group members the same grade.
+- Monitor barriers to a student’s performance in group work (e.g., language, technology) and grade accordingly.
+- Grade each student individually based on their contribution to the group’s process and product.
+- Use the same rubric to consistently grade all groups’ assignments.
+- Modify and apply the rubric differently in response to unexpected group events (e.g., group member leaves).
+- Use the same rubric, but consider group composition, size, and cohesion when grading.
+
+If your response to this scenario was not listed above, how would you most likely respond?
+</p>
+</details>
+
+<details>
+<summary>Scenario 3</summary>
+<p>
+> There are expectations in your department that grades should be distributed across the grading scale. However, your class averages are consistently lower than your colleagues’. Your course assessment scheme includes two term exams and one final exam.
+
+- Provide students with additional graded assessments to chunk learning into smaller units.
+- Provide students with additional opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).
+- Provide self-assessment opportunities to help students recognize and address gaps in their learning.
+- Analyze exam results to determine if weak performance was due to exam design issues.
+- Remove exam questions that most students struggled with and re-calculate student scores.
+- Schedule class time to review exam performance to address learning gaps.
+- Shift all exam grades up so averages are consistent with departmental colleagues.
+- Provide students who performed below the class average with the opportunity to rewrite an equivalent exam.
+- Provide any student the opportunity to rewrite an equivalent exam.
+- Analyze the consistency of student performance across course exams.
+- Analyze exam questions to ensure alignment with taught content.
+- Analyze how students performed on exams in relation to taught content.
+
+If your response to this scenario was not listed above, how would you most likely respond?
+</p>
+</details>
+
+<details>
+<summary>Scenario 4 </summary>
+<p>
+> You teach a course with multiple sections taught by various instructors. Your students have complained to you that assignments are constructed and graded differently across sections.
+
+- Explain to students that while learning outcomes are the same across sections, grades are based on their individual performance on assignments.
+- Ensure students have the opportunity to receive feedback prior to submitting assignments to increase their focus on learning over grades.
+- Invite students to reflect on their personal learning goals for the course so they can plan for their own success in your course.
+- Engage in a collaborative design process with other instructors to set standards and design common assignments.
+- Collaboratively score a subset of assignments with the other instructors to ensure consistent use of scoring guides across sections.
+- Communicate your grading approach to your students and explain how it aligns with intended learning goals.
+- Propose a standard approach to assignments and grading be applied across all sections.
+- Assure students that while the assignments may be different across the sections, they assess the same learning outcomes.
+- Offer students the opportunity to select and complete an assignment from another section.
+- Work with the other instructors to revise all assignments across sections so they are all the same.
+- Justify differences in approaches to assessment based on instructor orientations to assessment, teaching context, and students’ learning needs.
+- Recognize student concerns and engage in practices that ensure your assignments are equivalent to those in other sections.
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+</p>
+</details>
+
+<details>
+<summary>Scenario 5 </summary>
+<p>
+> You discover that a student has plagiarized some of their assignment (e.g., an essay, lab report).
+
+- Give the student a 0 on the assignment.
+- Have the student re-write the plagiarized section in their own words, then re-grade the assignment.
+- Ask the students to reflect on why plagiarism is a problem and what they would do differently next time.
+- As the instructor, reflect on how the assignment could have been structured differently to deter plagiarism.
+- Adjust the student’s grade to reflect the portion of work that was plagiarized.
+- Discuss with the student the reasons for the plagiarism, severity of plagiarism, and negotiate potential next steps for their learning.
+- Apply the same consequence you would for other students to ensure all students are treated the same.
+- Consider if the student has identified accommodations before determining response to plagiarism.
+- Discuss why the student plagiarized and agree upon an appropriate alternative assignment.
+- Apply all aspects of institutional policy on academic integrity to ensure consistency across all students.
+- Consider the original aspects of the assignment and the plagiarized text to determine what the student knows and does not appear to know related to learning outcomes.
+- Consider extenuating circumstances surrounding the plagiarism and use professional judgement when applying the institutional academic integrity policy.
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+</p>
+</details>
+<br>
+
+```{block, type='reflect'}
+The Scenarios and responses above are from DeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). [Approaches to classroom assessment inventory: A new instrument to support teacher assessment literacy.](https://doi.org/10/gfgtsg) *Educational Assessment, 21*, 248–266. 
+```

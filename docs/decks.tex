@@ -68,6 +68,64 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+
+\usepackage{tcolorbox}
+
+
+\newtcolorbox{protip}{
+  colback=black,
+  coltext=white,
+  colframe=black,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{bonus}{
+  colback=blue!15,
+  colframe=blue!15,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{reflect}{
+  colback=green!5,
+  colframe=green!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{assessment}{
+  colback=blue!5,
+  colframe=blue!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{progress}{
+  colback=purple!10,
+  colframe=purple!10,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{video}{
+  colback=yellow!5,
+  colframe=yellow!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{caution}{
+  colback=red!5,
+  colframe=red!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{feedback}{
+  colback=black!5,
+  colframe=black!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{todo}{
+  colback=black!5,
+  colframe=black!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -84,7 +142,7 @@
 
 \title{Presentations}
 \author{Colin Madland}
-\date{Last updated: 2023-02-28}
+\date{Last updated: 2023-03-02}
 
 \begin{document}
 \maketitle
@@ -100,8 +158,7 @@
 Please use the table of contents on the left to navigate through my presentations.
 
 \hypertarget{otessa22---assessment-and-digital-technology-in-higher-education}{%
-\chapter*{OTESSA22 - Assessment and Digital Technology in Higher Education}\label{otessa22---assessment-and-digital-technology-in-higher-education}}
-\addcontentsline{toc}{chapter}{OTESSA22 - Assessment and Digital Technology in Higher Education}
+\chapter{OTESSA22 - Assessment and Digital Technology in Higher Education}\label{otessa22---assessment-and-digital-technology-in-higher-education}}
 
 \hypertarget{introduction}{%
 \section*{Introduction}\label{introduction}}
@@ -728,12 +785,7 @@ Scriven, M. (1967). \emph{The methodology of evaluation.} In B. O. Smith (Ed.), 
 Shepard, L. A. (2000). The Role of Assessment in a Learning Culture. \emph{Educational Researcher, 29}(7), 4--14. \url{https://doi.org/10/cw9jwc}
 
 \hypertarget{twu-faculty-professional-learning}{%
-\chapter*{TWU Faculty Professional Learning}\label{twu-faculty-professional-learning}}
-\addcontentsline{toc}{chapter}{TWU Faculty Professional Learning}
-
-\hypertarget{thursday-march-9-2023}{%
-\section*{Thursday, March 9, 2023}\label{thursday-march-9-2023}}
-\addcontentsline{toc}{section}{Thursday, March 9, 2023}
+\chapter{TWU Faculty Professional Learning}\label{twu-faculty-professional-learning}}
 
 \hypertarget{colin-madland-manager-online-learning-and-instructional-technology-twu-global}{%
 \subsection*{Colin Madland, Manager, Online Learning and Instructional Technology (TWU GLOBAL)}\label{colin-madland-manager-online-learning-and-instructional-technology-twu-global}}
@@ -753,17 +805,226 @@ Notes - \url{https://bit.ly/twu-assessment}
 \href{https://twitter.com/colinmadland}{Twitter}\\
 \href{https://scholar.social/web/@Cmadland}{Mastodon}
 
-\textbf{Presented Online at OTESSA22, May 17, 2022}
+\textbf{Presented Online for TWU Faculty Professional Learning, Thursday, March 9, 2023}
 
 \begin{quote}
-I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the \texttt{syilx} (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. \href{https://wfn.ca}{To learn more, please visit the Westbank First Nation website.}
+I acknowledge that the land where I currently live and work remains the traditional, ancestral, and unceded land of the \texttt{syilx} (silks) people, whose historical stewardship of and connections to the land continue to today. I am grateful to be an uninvited guest on this land. \href{https:/syilx.org}{To learn more, please visit the syilx.org.}
 \end{quote}
 
 \begin{figure}
 \centering
-\includegraphics{assets/otessa22/kalamoir.jpg}
-\caption{Figure 1. Author's bicycle overlooking Okanagan Lake.}
+\includegraphics{assets/twu-asmt/ellie.jpeg}
+\caption{My blind dog, Eleanor near the top of Mission Hill, overlooking syilx territory.}
 \end{figure}
+
+\hypertarget{what-is-assessment}{%
+\section{What is `assessment'?}\label{what-is-assessment}}
+
+\begin{quote}
+Pellegrino, J. W., Chudowsky, N., \& Glaser, R. \emph{Knowing What Students Know: The Science and Design of Educational Assessment}. National Academies Press. \url{https://doi.org/10.17226/10019}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  ``reasoning from evidence'' (p.~43)\\
+\item
+  ``a \emph{process} of drawing reasonable \emph{inferences} about what students know on the basis of \emph{evidence} derived from \emph{observations} of what they say, do, or make in \emph{selected situations}'' (p.~112)
+\end{itemize}
+
+\hypertarget{thinking-about-your-approach-to-assessment}{%
+\section{Thinking about your Approach to Assessment}\label{thinking-about-your-approach-to-assessment}}
+
+Scenario 1
+
+\begin{quote}
+You are teaching a large enrollment course. The students will be submitting bi-weekly assignments, a midterm exam, and a culminating assignment all designed to support their learning.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Grade each bi-weekly assignment.\\
+\item
+  Read a subset of bi-weekly assignments, identify and share performance trends with the whole class.\\
+\item
+  Ask students to self-assess their bi-weekly assignments using evaluative criteria.\\
+\item
+  Use performance trends from the bi-weekly assignments to inform the redesign of the midterm or culminating assessment.\\
+\item
+  Develop a rubric or scoring guide to assess the culminating assignment in advance of student submissions.\\
+\item
+  Dedicate class time to discuss students' performance trends from the midterm and address gaps in learning so students are better prepared for the culminating assignment.\\
+\item
+  Have every student complete the same culminating assignment using the same scoring rubric or guide.\\
+\item
+  Have all students complete the same culminating assignment with formal accommodations for students who require them.\\
+\item
+  Provide students with a choice of three different culminating assignments that assess the same learning goals.\\
+\item
+  Consistently apply late submission policies for all students when generating grades.\\
+\item
+  Consider each student's individual circumstances when deciding how to apply late submission policies.\\
+\item
+  Use the late submission policy as a guideline to ensure a consistent principle is applied while also using professional judgement for students with individual circumstances.
+\end{itemize}
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+\begin{itemize}
+\item
+\end{itemize}
+
+Scenario 2
+
+\begin{quote}
+A core assignment in your course involves students working in groups online.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Grade the assignment solely based on the group's final product.
+\item
+  Engage students in an ongoing peer feedback process to enhance group collaboration.
+\item
+  Engage students in self-assessment to increase their accountability and engagement in the assignment.
+\item
+  Leverage online design features to engage students in peer feedback and self-assessment.
+\item
+  Take group member feedback into consideration when generating final grades.
+\item
+  Communicate grading decisions based on evaluation criteria and evidence of student learning.
+\item
+  Give all group members the same grade.
+\item
+  Monitor barriers to a student's performance in group work (e.g., language, technology) and grade accordingly.
+\item
+  Grade each student individually based on their contribution to the group's process and product.
+\item
+  Use the same rubric to consistently grade all groups' assignments.
+\item
+  Modify and apply the rubric differently in response to unexpected group events (e.g., group member leaves).
+\item
+  Use the same rubric, but consider group composition, size, and cohesion when grading.
+\end{itemize}
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+Scenario 3
+
+\begin{quote}
+There are expectations in your department that grades should be distributed across the grading scale. However, your class averages are consistently lower than your colleagues'. Your course assessment scheme includes two term exams and one final exam.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Provide students with additional graded assessments to chunk learning into smaller units.
+\item
+  Provide students with additional opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).
+\item
+  Provide self-assessment opportunities to help students recognize and address gaps in their learning.
+\item
+  Analyze exam results to determine if weak performance was due to exam design issues.
+\item
+  Remove exam questions that most students struggled with and re-calculate student scores.
+\item
+  Schedule class time to review exam performance to address learning gaps.
+\item
+  Shift all exam grades up so averages are consistent with departmental colleagues.
+\item
+  Provide students who performed below the class average with the opportunity to rewrite an equivalent exam.
+\item
+  Provide any student the opportunity to rewrite an equivalent exam.
+\item
+  Analyze the consistency of student performance across course exams.
+\item
+  Analyze exam questions to ensure alignment with taught content.
+\item
+  Analyze how students performed on exams in relation to taught content.
+\end{itemize}
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+Scenario 4
+
+\begin{quote}
+You teach a course with multiple sections taught by various instructors. Your students have complained to you that assignments are constructed and graded differently across sections.
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Explain to students that while learning outcomes are the same across sections, grades are based on their individual performance on assignments.
+\item
+  Ensure students have the opportunity to receive feedback prior to submitting assignments to increase their focus on learning over grades.
+\item
+  Invite students to reflect on their personal learning goals for the course so they can plan for their own success in your course.
+\item
+  Engage in a collaborative design process with other instructors to set standards and design common assignments.
+\item
+  Collaboratively score a subset of assignments with the other instructors to ensure consistent use of scoring guides across sections.
+\item
+  Communicate your grading approach to your students and explain how it aligns with intended learning goals.
+\item
+  Propose a standard approach to assignments and grading be applied across all sections.
+\item
+  Assure students that while the assignments may be different across the sections, they assess the same learning outcomes.
+\item
+  Offer students the opportunity to select and complete an assignment from another section.
+\item
+  Work with the other instructors to revise all assignments across sections so they are all the same.
+\item
+  Justify differences in approaches to assessment based on instructor orientations to assessment, teaching context, and students' learning needs.
+\item
+  Recognize student concerns and engage in practices that ensure your assignments are equivalent to those in other sections.
+\end{itemize}
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+Scenario 5
+
+\begin{quote}
+You discover that a student has plagiarized some of their assignment (e.g., an essay, lab report).
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  Give the student a 0 on the assignment.
+\item
+  Have the student re-write the plagiarized section in their own words, then re-grade the assignment.
+\item
+  Ask the students to reflect on why plagiarism is a problem and what they would do differently next time.
+\item
+  As the instructor, reflect on how the assignment could have been structured differently to deter plagiarism.
+\item
+  Adjust the student's grade to reflect the portion of work that was plagiarized.
+\item
+  Discuss with the student the reasons for the plagiarism, severity of plagiarism, and negotiate potential next steps for their learning.
+\item
+  Apply the same consequence you would for other students to ensure all students are treated the same.
+\item
+  Consider if the student has identified accommodations before determining response to plagiarism.
+\item
+  Discuss why the student plagiarized and agree upon an appropriate alternative assignment.
+\item
+  Apply all aspects of institutional policy on academic integrity to ensure consistency across all students.
+\item
+  Consider the original aspects of the assignment and the plagiarized text to determine what the student knows and does not appear to know related to learning outcomes.
+\item
+  Consider extenuating circumstances surrounding the plagiarism and use professional judgement when applying the institutional academic integrity policy.
+\end{itemize}
+
+If your response to this scenario was not listed above, how would you most likely respond?
+
+\begin{reflect}
+The Scenarios and responses above are from DeLuca, C., LaPointe-McEwan,
+D., \& Luhanga, U. (2016). \href{https://doi.org/10/gfgtsg}{Approaches
+to classroom assessment inventory: A new instrument to support teacher
+assessment literacy.} \emph{Educational Assessment, 21}, 248--266.
+\end{reflect}
 
   \bibliography{book.bib}
 
