@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Page not found | Presentations</title>
+  <title> 3 Collaborate | Presentations</title>
   <meta name="description" content="This is a minimal example of using the bookdown package to host presentations. The output format for this example is bookdown::gitbook." />
   <meta name="generator" content="bookdown 0.31 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Page not found | Presentations" />
+  <meta property="og:title" content=" 3 Collaborate | Presentations" />
   <meta property="og:type" content="book" />
   
   <meta property="og:description" content="This is a minimal example of using the bookdown package to host presentations. The output format for this example is bookdown::gitbook." />
   <meta name="github-repo" content="rstudio/bookdown-demo" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Page not found | Presentations" />
+  <meta name="twitter:title" content=" 3 Collaborate | Presentations" />
   
   <meta name="twitter:description" content="This is a minimal example of using the bookdown package to host presentations. The output format for this example is bookdown::gitbook." />
   
@@ -29,7 +29,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-
+<link rel="prev" href="twu-faculty-professional-learning.html"/>
 
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -99,6 +99,7 @@
 <li class="chapter" data-level="2.1" data-path="twu-faculty-professional-learning.html"><a href="twu-faculty-professional-learning.html#what-is-assessment"><i class="fa fa-check"></i><b>2.1</b> What is ‘assessment’?</a></li>
 <li class="chapter" data-level="2.2" data-path="twu-faculty-professional-learning.html"><a href="twu-faculty-professional-learning.html#thinking-about-your-approach-to-assessment"><i class="fa fa-check"></i><b>2.2</b> Thinking about your Approach to Assessment</a></li>
 </ul></li>
+<li class="chapter" data-level="3" data-path="collaborate.html"><a href="collaborate.html"><i class="fa fa-check"></i><b>3</b> Collaborate</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -119,18 +120,91 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="page-not-found" class="section level1">
-<h1>Page not found</h1>
-<p>The page you requested cannot be found (perhaps it was moved or renamed).</p>
-<p>You may want to try searching to find the page's new location, or use
-the table of contents to find the page you are looking for.</p>
+<div id="collaborate" class="section level1 hasAnchor" number="3">
+<h1><span class="header-section-number"> 3</span> Collaborate<a href="collaborate.html#collaborate" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+&lt;!doctype html&gt;
+<!-- See http://www.firepad.io/docs/ for detailed embedding docs. -->
+<html>
+<head>
+<meta charset="utf-8" />
+<!-- Firebase -->
+<script src="https://www.gstatic.com/firebasejs/5.5.4/firebase.js"></script>
+<!-- CodeMirror -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.17.0/codemirror.js"></script>
+<p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.17.0/codemirror.css" /></p>
+<!-- Firepad -->
+<link rel="stylesheet" href="https://firepad.io/releases/v1.5.9/firepad.css" />
+<script src="https://firepad.io/releases/v1.5.9/firepad.min.js"></script>
+<style>
+    html { height: 100%; }
+    body { margin: 0; height: 100%; position: relative; }
+      /* Height / width / positioning can be customized for your use case.
+         For demo purposes, we make firepad fill the entire browser. */
+    #firepad-container {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body onload="init()">
+<div id="firepad-container">
+
+</div>
+<script>
+    function init() {
+      //// Initialize Firebase.
+      //// TODO: replace with your Firebase project configuration.
+      var config = {
+        apiKey: '<API_KEY>',
+        authDomain: "firepad-gh-tests.firebaseapp.com",
+        databaseURL: "https://firepad-gh-tests.firebaseio.com"
+      };
+      firebase.initializeApp(config);
+
+      //// Get Firebase Database reference.
+      var firepadRef = getExampleRef();
+
+      //// Create CodeMirror (with lineWrapping on).
+      var codeMirror = CodeMirror(document.getElementById('firepad-container'), { lineWrapping: true });
+
+      //// Create Firepad (with rich text toolbar and shortcuts enabled).
+      var firepad = Firepad.fromCodeMirror(firepadRef, codeMirror,
+          { richTextToolbar: true, richTextShortcuts: true });
+
+      //// Initialize contents.
+      firepad.on('ready', function() {
+        if (firepad.isHistoryEmpty()) {
+          firepad.setHtml('<span style="font-size: 24px;">Rich-text editing with <span style="color: red">Firepad!</span></span><br/><br/>Collaborative-editing made easy.\n');
+        }
+      });
+    }
+
+    // Helper to get hash from end of URL or generate a random one.
+    function getExampleRef() {
+      var ref = firebase.database().ref();
+      var hash = window.location.hash.replace(/#/g, '');
+      if (hash) {
+        ref = ref.child(hash);
+      } else {
+        ref = ref.push(); // generate unique location.
+        window.location = window.location + '#' + ref.key; // add it as a hash to the URL.
+      }
+      if (typeof console !== 'undefined') {
+        console.log('Firebase data: ', ref.toString());
+      }
+      return ref;
+    }
+  </script>
+</body>
+</html>
+
 </div>
             </section>
 
           </div>
         </div>
       </div>
-
+<a href="twu-faculty-professional-learning.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
 
     </div>
   </div>

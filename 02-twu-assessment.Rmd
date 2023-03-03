@@ -1,10 +1,10 @@
 # TWU Faculty Professional Learning 
 
-### Colin Madland, Manager, Online Learning and Instructional Technology (TWU GLOBAL) {-}
+**Colin Madland, Manager, Online Learning and Instructional Technology (TWU GLOBAL) **
 
-PhD Candidate, University of Victoria 
+*PhD Candidate, University of Victoria *
 
-Notes - https://bit.ly/twu-assessment
+Notes - <https://bit.ly/twu-assessment>
 
 ![QR Code to access presentation notes](assets/twu-asmt/twu-asmt.png)
 
@@ -32,6 +32,12 @@ Notes - https://bit.ly/twu-assessment
 <p>
 > You are teaching a large enrollment course. The students will be submitting bi-weekly assignments, a midterm exam, and a culminating assignment all designed to support their learning.
 
+1. How would you approach grading the bi-weekly assignments?    
+2. How would you use data from learners' performance on the bi-weekly assignments?  
+3. How would you respond to learners who have diverse abilities in relation to the culminating assignment?  
+4. How would you deal with late assignments?   
+
+<!--
 - Grade each bi-weekly assignment.  
 - Read a subset of bi-weekly assignments, identify and share performance trends with the whole class.  
 - Ask students to self-assess their bi-weekly assignments using evaluative criteria.  
@@ -46,8 +52,9 @@ Notes - https://bit.ly/twu-assessment
 - Use the late submission policy as a guideline to ensure a consistent principle is applied while also using professional judgement for students with individual circumstances.  
 
 If your response to this scenario was not listed above, how would you most likely respond?
+-->
 
-- </p>
+</p>
 </details>
 
 <details>
@@ -55,6 +62,13 @@ If your response to this scenario was not listed above, how would you most likel
 <p>
 > A core assignment in your course involves students working in groups online.
 
+1. How would you ensure accountability and engagement with the assignment?
+2. How would you communicate feedback with the group?
+3. What factors would you consider when making grading decisions?
+4. How would you manage unexpected events that disrupt a group's ability to complete the assignment?
+
+
+<!--
 - Grade the assignment solely based on the group’s final product.
 - Engage students in an ongoing peer feedback process to enhance group collaboration.
 - Engage students in self-assessment to increase their accountability and engagement in the assignment.
@@ -69,6 +83,7 @@ If your response to this scenario was not listed above, how would you most likel
 - Use the same rubric, but consider group composition, size, and cohesion when grading.
 
 If your response to this scenario was not listed above, how would you most likely respond?
+-->
 </p>
 </details>
 
@@ -77,6 +92,12 @@ If your response to this scenario was not listed above, how would you most likel
 <p>
 > There are expectations in your department that grades should be distributed across the grading scale. However, your class averages are consistently lower than your colleagues’. Your course assessment scheme includes two term exams and one final exam.
 
+1. How might you incorporate assessment *for* learning into your assessment scheme?
+2. How might you design the exams to address the gap?
+3. What would be a fair approach to 'catching up' to your colleagues' course grades?
+4. How might you analyze the exam scores to ensure reliability and validity?
+
+<!--
 - Provide students with additional graded assessments to chunk learning into smaller units.
 - Provide students with additional opportunities to check their understanding throughout the course (e.g., ungraded quizzes, exit slips).
 - Provide self-assessment opportunities to help students recognize and address gaps in their learning.
@@ -91,6 +112,7 @@ If your response to this scenario was not listed above, how would you most likel
 - Analyze how students performed on exams in relation to taught content.
 
 If your response to this scenario was not listed above, how would you most likely respond?
+-->
 </p>
 </details>
 
@@ -99,6 +121,13 @@ If your response to this scenario was not listed above, how would you most likel
 <p>
 > You teach a course with multiple sections taught by various instructors. Your students have complained to you that assignments are constructed and graded differently across sections.
 
+1. How might different purposes of assessment (...of/for/as learning) impact your response to learners?
+2. What design strategies could mitigate the perception (or reality) of inconsistent assignments across sections?
+3. What strategies could you use to ensure fairness across sections?
+4. How might you ensure that your assignments are 'measuring' the same things as your colleagues' assignments?
+
+
+<!--
 - Explain to students that while learning outcomes are the same across sections, grades are based on their individual performance on assignments.
 - Ensure students have the opportunity to receive feedback prior to submitting assignments to increase their focus on learning over grades.
 - Invite students to reflect on their personal learning goals for the course so they can plan for their own success in your course.
@@ -113,6 +142,7 @@ If your response to this scenario was not listed above, how would you most likel
 - Recognize student concerns and engage in practices that ensure your assignments are equivalent to those in other sections.
 
 If your response to this scenario was not listed above, how would you most likely respond?
+-->
 
 </p>
 </details>
@@ -122,6 +152,12 @@ If your response to this scenario was not listed above, how would you most likel
 <p>
 > You discover that a student has plagiarized some of their assignment (e.g., an essay, lab report).
 
+1. How might your response change if the purpose of the assignment was one of assessment of/for/as learning?
+2. How might you adjust the design or deployment of the assignment to reduce plagiarism?
+3. What factors would you consider in deciding how to proceed with the student?
+4. How can you come to know what the student knows in relation to the learning outcomes?
+
+<!--
 - Give the student a 0 on the assignment.
 - Have the student re-write the plagiarized section in their own words, then re-grade the assignment.
 - Ask the students to reflect on why plagiarism is a problem and what they would do differently next time.
@@ -136,6 +172,7 @@ If your response to this scenario was not listed above, how would you most likel
 - Consider extenuating circumstances surrounding the plagiarism and use professional judgement when applying the institutional academic integrity policy.
 
 If your response to this scenario was not listed above, how would you most likely respond?
+-->
 
 </p>
 </details>
@@ -144,3 +181,5 @@ If your response to this scenario was not listed above, how would you most likel
 ```{block, type='reflect'}
 The Scenarios and responses above are from DeLuca, C., LaPointe-McEwan, D., & Luhanga, U. (2016). [Approaches to classroom assessment inventory: A new instrument to support teacher assessment literacy.](https://doi.org/10/gfgtsg) *Educational Assessment, 21*, 248–266. 
 ```
+
+
