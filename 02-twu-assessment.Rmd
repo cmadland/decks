@@ -8,9 +8,9 @@ Notes - <https://bit.ly/twu-assessment>
 
 ![QR Code to access presentation notes. You can scan the QR code with your mobile phone, then send the tab to your desktop (at least in FireFox). ](assets/twu-asmt/qr-slides.png)
 
-[Find me on the web...](https://cmad.land){target="_blank"} 
-[Twitter](https://twitter.com/colinmadland){target="_blank"}  
-[Mastodon](https://scholar.social/web/@Cmadland){target="_blank"}  
+- [My web page](https://cmad.land){target="_blank"}   
+- [Twitter](https://twitter.com/colinmadland){target="_blank"}    
+- [Mastodon](https://scholar.social/web/@Cmadland){target="_blank"}   
 
 **Presented Online for TWU Faculty Professional Learning, Thursday, March 9, 2023**
 
@@ -42,8 +42,8 @@ The process of assessment begins with a detailed understanding and map of the co
 
 Here are two documents in use in TWU Nursing. While these aren't constructed specifically as cognitive models of the domain, but instead as evaluation tools, the represent comprehesive models of what is required to demonstrate competency.
 
-- ![This is a checklist that nursing faculty use to allow learners to self-assess.](/assets/twu-asmt/mosby.pdf)  
-- ![And another used in practicum evaluations.](/assets/twu-asmt/n213.pdf)
+- [This is a checklist that nursing faculty use to allow learners to self-assess.](https://github.com/cmadland/decks/blob/main/assets/twu-asmt/mosby.pdf)  
+- [And another used in practicum evaluations.](https://github.com/cmadland/decks/blob/main/assets/twu-asmt/n213.pdf)
 
 The second component of the assessment triangle is an instrument of some kind designed to elicit the competencies mapped in the cognitive model. The instrument can vary widely from selected-response tests, videos, podcasts, performance tests in a lab, and many more.
 
