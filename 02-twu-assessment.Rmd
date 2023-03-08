@@ -26,12 +26,12 @@ Notes - <https://bit.ly/twu-assessment>
 
 **Pellegrino, J. W., Chudowsky, N., & Glaser, R. [_Knowing What Students Know: The Science and Design of Educational Assessment_](https://doi.org/10.17226/10019){target="_blank"}. National Academies Press. **
 
-
-
 > "reasoning from evidence" (p. 43)    
 
 > "a ***process*** of drawing reasonable ***inferences*** about what students know on the basis of ***evidence*** derived from ***observations*** of what they say, do, or make in ***selected situations***" (p. 112)  
 
+> A grade is an inadequate report of an inaccurate judgment by a biased and variable judge of the extent to which a student has attained an undefined level of mastery of an unknown proportion of an indefinite material. (Usually ascribed to Paul Dressel at various times and in various publications...let me know if you find a verifiable source.)
+> 
 ### The Assessment Triangle
 
 ![Assessment triangle showing the three components of assessment (Pellegrino, et al. 2001).](assets/otessa22/assessment-triangle.png)
